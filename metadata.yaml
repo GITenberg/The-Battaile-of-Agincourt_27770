@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3305
     wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27770#The-Battaile-of-Agincourt
 gutenberg_issued: '2009-01-11'
 gutenberg_type: Text
 identifiers:
