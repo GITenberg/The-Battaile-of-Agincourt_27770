@@ -1,0 +1,37 @@
+_repo: The-Battaile-of-Agincourt_27770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drayton, Michael
+    alias: Draiton, Michaell
+    birthdate: 1563
+    deathdate: 1631
+    gutenberg_agent_id: '6061'
+    url: http://www.gutenberg.org/2009/agents/6061
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Drayton
+  editor:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+description: ''
+gutenberg_issued: '2009-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27770'
+  lccn: '01003771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agincourt, Battle of, Agincourt, France, 1415 -- Poetry'
+- !lcc 'PR'
+title: The Battaile of Agincourt
+url: http://www.gutenberg.org/ebooks/27770
